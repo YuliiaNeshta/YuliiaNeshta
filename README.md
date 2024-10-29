@@ -4,7 +4,7 @@ Hi 👋 My name is Yuliia Neshta
 I'm Frontend Developer
 ----------------------
 
-I've been learning to code for 3 years after changing careers. I started with HTML, CSS, and JavaScript, but I've really grown to love React.js. I'm a fast learner and good at communicating with others. Also, I'm good at making web apps that look great on all screen sizes, paying close attention to the little details. I can build code that works well, doesn't waste resources, and can be fixed and improved easily. I work well in a team and can talk with others effectively. I also stay updated with the latest technologies and trends in the coding world because I'm passionate about it.
+I've been learning to code for 4 years after changing careers. I started with HTML, CSS, and JavaScript, but I've really grown to love React.js. I'm a fast learner and good at communicating with others. Also, I'm good at making web apps that look great on all screen sizes, paying close attention to the little details. I can build code that works well, doesn't waste resources, and can be fixed and improved easily. I work well in a team and can talk with others effectively. I also stay updated with the latest technologies and trends in the coding world because I'm passionate about it.
 
 * 🌍  I'm based in Sumy, Ukraine
 * ✉️  You can contact me at [julija.neshta@gmail.com](mailto:julija.neshta@gmail.com)
